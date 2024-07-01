@@ -42,7 +42,7 @@
       "JP"
     ],
     "multiWeight": false
-  }
+  },
   {
     "fontName": "Source Serif 4",
     "fontFamily": "Source Serif 4",
@@ -50,6 +50,6 @@
     "lang": [
       "EN"
     ],
-    "multiWeight": false
+    "multiWeight": "VF"
   }
 ]
