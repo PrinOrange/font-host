@@ -135,21 +135,129 @@ license: This Font Software is licensed under the SIL Open Font License, Version
 licenseURL: http://scripts.sil.org/OFL
  */
 
-@font-face {font-family: "Source Serif 4";src:url("./b4c716a59b9e4fbdf85dd84ebb8282d2.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+400-44a;}
-@font-face {font-family: "Source Serif 4";src:url("./4184ef098b0d06dc27f41f4b5475ca71.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+462-463,U+472-475,U+492-493,U+496-49b,U+4a0-4a3,U+4aa-4ab,U+4ae-4af,U+4b2-4b3,U+4b6-4b7,U+4ba-4bb,U+4c0-4c2,U+4cf-4d1,U+4d4-4d9,U+4e2-4e3,U+4e6-4e9,U+4ee-4ef,U+4f2-4f3;}
-@font-face {font-family: "Source Serif 4";src:url("./92a8dc6f04b9532a371a831b070e7291.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+69-6a,U+2b2,U+2be-2bf,U+2c7-2cc,U+2d8-2d9,U+2db,U+2dd,U+307,U+30a-30b,U+31b,U+324,U+326,U+32e,U+331,U+2071,U+2117,U+2120,U+212e,U+2153-2154,U+215b-215e,U+2190,U+2192,U+2196-2199,U+2202,U+220f,U+2211,U+2219-221a,U+221e,U+222b,U+2248,U+2260,U+2264-2265,U+25a0,U+25b2-25b3,U+25b6-25b7,U+25bc-25bd,U+25c0-25c1,U+25c6,U+25c9-25ca,U+2610-2611,U+266a,U+2713,U+2752,U+2e3b;}
-@font-face {font-family: "Source Serif 4";src:url("./e7da8ed43cdc67e24610051b6636671c.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+374-375,U+37e,U+384-38a,U+38c,U+38e-3a1,U+3a3-3bb,U+3bd-3c7,U+2126,U+2206;}
-@font-face {font-family: "Source Serif 4";src:url("./e0174b879d7b5ef5c2893676a1181529.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+44b-45f,U+490-491,U+4b0-4b1,U+2116;}
-@font-face {font-family: "Source Serif 4";src:url("./2e857f071f80d4ad9a27c7915ca8933a.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+1ec3-1ee6;}
-@font-face {font-family: "Source Serif 4";src:url("./3c354fb596e8016aa5b254a83491c622.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+1e2b,U+1e36-1e3b,U+1e3e-1e3f,U+1e42-1e49,U+1e5a-1e63,U+1e6c-1e6f,U+1e80-1e85,U+1e8e-1e8f,U+1e92-1e93,U+1e97,U+1e9e,U+1ef2-1ef9,U+20a1,U+20a4,U+20a6-20a7,U+20a9;}
-@font-face {font-family: "Source Serif 4";src:url("./5d3068727c390775d0eaa5147c9bee99.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+4e-78,U+10f,U+119,U+123,U+172-173,U+2b0,U+2b3,U+2b7,U+2e2-2e3,U+303,U+30c,U+327-328,U+1d43,U+1d47-1d49,U+1d4d,U+1d4f-1d50,U+1d52,U+1d56,U+1d58,U+1d5b,U+1d9c,U+1da0,U+207f,U+fb00-fb04;}
-@font-face {font-family: "Source Serif 4";src:url("./679022c4b5eff9f054fff6c62cf4f2fb.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+323,U+1ea0-1ec2;}
-@font-face {font-family: "Source Serif 4";src:url("./fcf3a84d2dfefd11524f9e255571ff69.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+17a-17f,U+18f,U+192,U+1a0-1a1,U+1af-1b0,U+1cd-1dc,U+1e6-1e7,U+1f8-1f9,U+218-21b,U+237,U+251,U+259,U+261,U+1e0c-1e0f,U+1e20-1e21,U+1e24-1e25,U+1e2a;}
-@font-face {font-family: "Source Serif 4";src:url("./d1db9d007a20ee450f7d8eb14fd84b9d.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+6c,U+100-10e,U+110-118,U+11a-122,U+124-12b,U+12e-130,U+134-13c,U+13e,U+2e1,U+30c;}
-@font-face {font-family: "Source Serif 4";src:url("./1e4d95f0631450a1920d8271b1527f0b.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+74,U+13f-151,U+154-165,U+168-171,U+174-179,U+30c,U+1d57;}
-@font-face {font-family: "Source Serif 4";src:url("./67bca77283c224c2e13cd195a41ff4b3.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+20-4d,U+ad,U+b2-b3,U+b9,U+13d,U+2010,U+2070,U+2074-2079,U+207d-207e,U+2080-2089,U+208d-208e;}
-@font-face {font-family: "Source Serif 4";src:url("./1f47d59d1407af42650c7cccea619225.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+153,U+2bb-2bc,U+2c6,U+2da,U+2dc,U+300-304,U+306,U+308-309,U+30c,U+329,U+2002-2007,U+2009-200b,U+2012-2015,U+2018-201a,U+201c-201e,U+2020-2022,U+2025-2026;}
-@font-face {font-family: "Source Serif 4";src:url("./14dda1c7914f2b08b16836e1eb47329a.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+79-7e,U+a0-ac,U+ae-b1,U+b4-b8,U+ba-d2,U+2b8,U+3bc,U+1dbb;}
-@font-face {font-family: "Source Serif 4";src:url("./c4ec4ff6f68b91545bcb50a7f425ce3b.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+3c8-3ce,U+3d7,U+3d9,U+3db,U+3dd,U+3e1,U+1ee7-1ef1,U+20ab,U+20ae,U+20b1-20b2,U+20b4-20b5,U+20b8-20ba,U+20bd,U+20bf,U+2113,U+2e3a,U+1f12f,U+1f16a-1f16b;}
-@font-face {font-family: "Source Serif 4";src:url("./97cd09bab54388c3cccdd2ed7a87221b.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+d3-ff,U+131,U+152;}
-@font-face {font-family: "Source Serif 4";src:url("./1a45cd38b716f6c3db3d71f4062428ea.woff2") format("woff2");font-style: normal;font-display: swap;unicode-range:U+202f-2030,U+2032-2033,U+2039-203a,U+203c,U+2044,U+2047-2049,U+20ac,U+2122,U+2191,U+2193,U+2212,U+2215;}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./b4c716a59b9e4fbdf85dd84ebb8282d2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+400-44a;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./4184ef098b0d06dc27f41f4b5475ca71.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+462-463, U+472-475, U+492-493, U+496-49b, U+4a0-4a3, U+4aa-4ab, U+4ae-4af, U+4b2-4b3, U+4b6-4b7, U+4ba-4bb, U+4c0-4c2, U+4cf-4d1, U+4d4-4d9, U+4e2-4e3, U+4e6-4e9, U+4ee-4ef, U+4f2-4f3;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./92a8dc6f04b9532a371a831b070e7291.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+69-6a, U+2b2, U+2be-2bf, U+2c7-2cc, U+2d8-2d9, U+2db, U+2dd, U+307, U+30a-30b, U+31b, U+324, U+326, U+32e, U+331, U+2071, U+2117, U+2120, U+212e, U+2153-2154, U+215b-215e, U+2190, U+2192, U+2196-2199, U+2202, U+220f, U+2211, U+2219-221a, U+221e, U+222b, U+2248, U+2260, U+2264-2265, U+25a0, U+25b2-25b3, U+25b6-25b7, U+25bc-25bd, U+25c0-25c1, U+25c6, U+25c9-25ca, U+2610-2611, U+266a, U+2713, U+2752, U+2e3b;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./e7da8ed43cdc67e24610051b6636671c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+374-375, U+37e, U+384-38a, U+38c, U+38e-3a1, U+3a3-3bb, U+3bd-3c7, U+2126, U+2206;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./e0174b879d7b5ef5c2893676a1181529.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+44b-45f, U+490-491, U+4b0-4b1, U+2116;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./2e857f071f80d4ad9a27c7915ca8933a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+1ec3-1ee6;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./3c354fb596e8016aa5b254a83491c622.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+1e2b, U+1e36-1e3b, U+1e3e-1e3f, U+1e42-1e49, U+1e5a-1e63, U+1e6c-1e6f, U+1e80-1e85, U+1e8e-1e8f, U+1e92-1e93, U+1e97, U+1e9e, U+1ef2-1ef9, U+20a1, U+20a4, U+20a6-20a7, U+20a9;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./5d3068727c390775d0eaa5147c9bee99.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4e-78, U+10f, U+119, U+123, U+172-173, U+2b0, U+2b3, U+2b7, U+2e2-2e3, U+303, U+30c, U+327-328, U+1d43, U+1d47-1d49, U+1d4d, U+1d4f-1d50, U+1d52, U+1d56, U+1d58, U+1d5b, U+1d9c, U+1da0, U+207f, U+fb00-fb04;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./679022c4b5eff9f054fff6c62cf4f2fb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+323, U+1ea0-1ec2;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./fcf3a84d2dfefd11524f9e255571ff69.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+17a-17f, U+18f, U+192, U+1a0-1a1, U+1af-1b0, U+1cd-1dc, U+1e6-1e7, U+1f8-1f9, U+218-21b, U+237, U+251, U+259, U+261, U+1e0c-1e0f, U+1e20-1e21, U+1e24-1e25, U+1e2a;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./d1db9d007a20ee450f7d8eb14fd84b9d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+6c, U+100-10e, U+110-118, U+11a-122, U+124-12b, U+12e-130, U+134-13c, U+13e, U+2e1, U+30c;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./1e4d95f0631450a1920d8271b1527f0b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+74, U+13f-151, U+154-165, U+168-171, U+174-179, U+30c, U+1d57;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./67bca77283c224c2e13cd195a41ff4b3.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+20-4d, U+ad, U+b2-b3, U+b9, U+13d, U+2010, U+2070, U+2074-2079, U+207d-207e, U+2080-2089, U+208d-208e;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./1f47d59d1407af42650c7cccea619225.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+153, U+2bb-2bc, U+2c6, U+2da, U+2dc, U+300-304, U+306, U+308-309, U+30c, U+329, U+2002-2007, U+2009-200b, U+2012-2015, U+2018-201a, U+201c-201e, U+2020-2022, U+2025-2026;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./14dda1c7914f2b08b16836e1eb47329a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+79-7e, U+a0-ac, U+ae-b1, U+b4-b8, U+ba-d2, U+2b8, U+3bc, U+1dbb;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./c4ec4ff6f68b91545bcb50a7f425ce3b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+3c8-3ce, U+3d7, U+3d9, U+3db, U+3dd, U+3e1, U+1ee7-1ef1, U+20ab, U+20ae, U+20b1-20b2, U+20b4-20b5, U+20b8-20ba, U+20bd, U+20bf, U+2113, U+2e3a, U+1f12f, U+1f16a-1f16b;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./97cd09bab54388c3cccdd2ed7a87221b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+d3-ff, U+131, U+152;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("./1a45cd38b716f6c3db3d71f4062428ea.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+202f-2030, U+2032-2033, U+2039-203a, U+203c, U+2044, U+2047-2049, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215;
+}

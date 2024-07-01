@@ -3,53 +3,35 @@
     "fontName": "方正小标宋 GBK",
     "fontFamily": "FZXiaoBiaoSong-B05",
     "directory": "fang-zheng-xiao-biao-song",
-    "lang": [
-      "EN",
-      "CN",
-      "JP"
-    ],
+    "lang": ["EN", "CN", "JP"],
     "multiWeight": false
   },
   {
     "fontName": "微软雅黑",
     "fontFamily": "Microsoft YaHei",
     "directory": "microsoft-yahei",
-    "lang": [
-      "EN",
-      "CN",
-      "JP"
-    ],
+    "lang": ["EN", "CN", "JP"],
     "multiWeight": false
   },
   {
     "fontName": "思源屏显臻宋",
     "fontFamily": "Clear Han Serif",
     "directory": "source-serif-screen",
-    "lang": [
-      "EN",
-      "CN",
-      "JP"
-    ],
+    "lang": ["EN", "CN", "JP"],
     "multiWeight": false
   },
   {
     "fontName": "方正屏显雅宋",
     "fontFamily": "FZPingXianYaSong-R-GBK",
     "directory": "fang-zheng-serif-screen",
-    "lang": [
-      "EN",
-      "CN",
-      "JP"
-    ],
+    "lang": ["EN", "CN", "JP"],
     "multiWeight": false
   },
   {
     "fontName": "Source Serif 4",
     "fontFamily": "Source Serif 4",
     "directory": "source-serif-4",
-    "lang": [
-      "EN"
-    ],
+    "lang": ["EN"],
     "multiWeight": "VF"
   }
 ]
