@@ -43,4 +43,13 @@
     ],
     "multiWeight": false
   }
+  {
+    "fontName": "Source Serif 4",
+    "fontFamily": "Source Serif 4",
+    "directory": "source-serif-4",
+    "lang": [
+      "EN"
+    ],
+    "multiWeight": false
+  }
 ]
