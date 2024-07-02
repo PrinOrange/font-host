@@ -40,5 +40,19 @@
     "directory": "noto-serif-kr",
     "lang": ["EN", "KR"],
     "multiWeight": "VF"
+  },
+  {
+    "fontName": "Times New Roman",
+    "fontFamily": "Times New Roman",
+    "directory": "times-new-roman",
+    "lang": ["EN"],
+    "multiWeight": false
+  },
+  {
+    "fontName": "Noto Sans KR",
+    "fontFamily": "Noto Sans KR",
+    "directory": "noto-sans-kr",
+    "lang": ["EN", "KR"],
+    "multiWeight": "VF"
   }
 ]
