@@ -33,5 +33,12 @@
     "directory": "source-serif-4",
     "lang": ["EN"],
     "multiWeight": "VF"
+  },
+  {
+    "fontName": "Noto Serif KR",
+    "fontFamily": "Noto Serif KR",
+    "directory": "noto-serif-kr",
+    "lang": ["EN", "KR"],
+    "multiWeight": "VF"
   }
 ]
