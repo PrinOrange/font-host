@@ -4,7 +4,7 @@
 
 This repository is used for hosting font-slices and its CSS package.
 
-Here is [fonts list](./data.json), you can also make the request for http://font-host.dreams.plus/data.json to fetch all the enrolled fonts.
+Here is [fonts list](./data.json), you can also make the request for <http://font-host.dreams.plus/data.json> to fetch all the enrolled fonts.
 
 ## Usage
 
