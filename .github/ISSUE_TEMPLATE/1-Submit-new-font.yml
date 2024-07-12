@@ -1,0 +1,37 @@
+name: Submit new font
+description: Submit a new font for web-font-host service
+labels: [submit]
+body:
+  - type: input
+    id: font-name
+    attributes:
+      label: Font Name
+      description: The name of the font.
+      placeholder: For example, Times New Roman
+    validations:
+      required: true
+  - type: dropdown
+    id: commercial-use
+    attributes:
+      label: Is it needs commercial license.
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: The main language to apply to.
+      description: What languages is this font for? If multiple languages, separate them with semicolons.
+      placeholder: For example, Chinese;English
+    validations:
+      required: true
+  - type: input
+    id: download-link
+    attributes:
+      label: Download link for this font
+      description: Provide a download link for the font.
+      placeholder: https://xxxx
+    validations:
+      required: true
