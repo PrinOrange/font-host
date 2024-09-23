@@ -1,0 +1,1571 @@
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7a14b881d3218130b84b290bb45749ee.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f19a, U+1f1e6-1f1ff, U+fe4e5-fe4ee;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a8748a522da6bd6d3899d874093d34b6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+200d, U+2139, U+2194-2195, U+261d, U+2640, U+2642, U+2695-2696, U+26a7, U+26f9, U+2708, U+270a-270d, U+2764, U+27a1, U+2b1b, U+1f308, U+1f32b, U+1f33e, U+1f344, U+1f34b, U+1f373, U+1f37c, U+1f384-1f385, U+1f393, U+1f3a4, U+1f3a8, U+1f3c2-1f3c4, U+1f3c7, U+1f3ca-1f3cc, U+1f3eb, U+1f3ed, U+1f3f3, U+1f3fb-1f3ff, U+1f426, U+1f441-1f443, U+1f446-1f450, U+1f466-1f469, U+1f46b-1f478, U+1f47c, U+1f481-1f483, U+1f485-1f487, U+1f48b, U+1f48f, U+1f491, U+1f4a8, U+1f4aa-1f4ab, U+1f4bb-1f4bc, U+1f525, U+1f527, U+1f52c, U+1f574-1f575, U+1f57a, U+1f590, U+1f595-1f596, U+1f5e8, U+1f62e, U+1f635-1f636, U+1f642, U+1f645-1f647, U+1f64b-1f64f, U+1f680, U+1f692, U+1f6a3, U+1f6b4-1f6b6, U+1f6c0,
+    U+1f6cc, U+1f7e9, U+1f7eb, U+1f90c, U+1f90f, U+1f918-1f91f, U+1f926, U+1f930-1f939, U+1f93c-1f93e, U+1f977, U+1f9af-1f9b3, U+1f9b5-1f9b6, U+1f9b8-1f9b9, U+1f9bb-1f9bd, U+1f9cd-1f9cf, U+1f9d1-1f9df, U+1fa79, U+1fac3-1fac5, U+1faf0-1faf8;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f49d6bde49eea6f691353b35696975cd.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+e0076, U+e0078-e007a;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./af3c1fd9b760a8e6a828ab7d503723b2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fae1-1fae8;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./8408c6848803e53fd26fb3814fd43682.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+e006a-e006b, U+e006d, U+e006f-e0072, U+e0075;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./83567a5540cd43f8f3d6841af17e270f.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+e0037-e0039, U+e0061, U+e0064, U+e0066, U+e0068-e0069;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a9562c5fba4d7c70bd48e0339e692882.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fae9, U+e0030-e0036;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./8f930aa7b207e19ff562d11bd0fb1db8.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fad7-1fadc, U+1fadf-1fae0;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./1013463921f9f035a58405b68a82de42.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1facf-1fad6;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d33fee03929af1788045d9cb6fbbfaab.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fab5-1fabc;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7a20af33a8cc103d13533cf87070c509.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fabd-1fac2, U+1fac6, U+1face;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./14893ce9f8742b81b2ad0c9d40877b95.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1faad-1fab4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./b09c4d435d10dd12494aef647512696f.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1faa5-1faac;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./fcdecff2f1ef1c051b8babfa79f385a4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fa9d-1faa4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./aed4c51210df88a1a4d02ce8c1d3034f.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fa95-1fa9c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./229d85e694d44a244f057e533ea6f9d1.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fa80-1fa87;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0e9662c656f8b9657d818102f1440d73.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fa88-1fa89, U+1fa8f-1fa94;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f27fc38c7204e7d394a36c3fd39ba013.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9fc-1f9ff, U+1fa70-1fa73;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./25e924af271cd1b94b48c536509ea155.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1fa74-1fa78, U+1fa7a-1fa7c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0929d8b3b46007359996d0fab1721a9c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9ec-1f9f3;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./b7dcb3a7497d1a551ff549cfca78f1f6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9f4-1f9fb;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./19e0e273652eaf3f3b472c07f9fe14c6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9ca-1f9cc, U+1f9d0, U+1f9e0-1f9e3;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d12879ce9cb9a4f5676de5b11124a5fd.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9e4-1f9eb;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./1b98c648d7f70b7954963e2f400104f7.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9c2-1f9c9;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./23915d0aa6ede46689eacee4201b3777.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9ad-1f9ae, U+1f9b4, U+1f9b7, U+1f9be-1f9c1;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d3ff169d51826f72dd8ade361e8bed4e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f98d-1f994;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./da0f7e7a55593c2b17b214ab1c63e9e0.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f9a5-1f9ac;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e914925339afa6e0924fa4af2ff5a8d6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f99d-1f9a4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./1582c8e3b03d0340c36da5555e0aea9e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f995-1f99c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c579e0f3e6c26ec0768cba1e9434e5a2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f985-1f98c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4d6006e69bf2890b1265ffd6961a4170.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f97d-1f984;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./1b187fb918d125bdb13012a764adb387.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f974-1f976, U+1f978-1f97c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./43d5c85890aed80dcc51a197c7113b3c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f96c-1f973;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0fa42a84313c5606e26dd1080554f9b8.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f964-1f96b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7dc53fcf4448184f30bd294a2f34db16.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f95c-1f963;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d225d8e664466a939b78f003dbb789a9.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f954-1f95b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./2ee3a302829a3b53adfd1c14d226ff3c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f94c-1f953;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./942b17cf0fd6be80cf7bfd30b44cb019.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f92d-1f92f, U+1f93a, U+1f93f-1f942;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./98436fd42ebcee7b41d029a7f0022319.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f943-1f945, U+1f947-1f94b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./092e7896fa47d6e769f9f89a4b44e320.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f924-1f925, U+1f927-1f92c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./653dc1821e9481399ccc3160cbb386d1.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f914-1f917, U+1f920-1f923;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f42056f0a4f517c4c4b03d94558fb4a8.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f7ea, U+1f7f0, U+1f90d-1f90e, U+1f910-1f913;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./de7b014e536c62259056b19338ce430d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6f6-1f6fc, U+1f7e0;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d071184093bd75e47ec2c90b6ecb4523.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f7e1-1f7e8;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./336915a17b273501d0c3bb28a6e36770.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6e5, U+1f6e9, U+1f6eb-1f6ec, U+1f6f0, U+1f6f3-1f6f5;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./652faf1d0b69cb2c114488b52d56cffc.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6dd-1f6e4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./cb3c7bb9add888fae70097f1b0a50563.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6cf-1f6d2, U+1f6d5-1f6d7, U+1f6dc;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./50b372b5d834beb8755df3f9a3a4171d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6c1-1f6c5, U+1f6cb, U+1f6cd-1f6ce;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./afc1ce4032ff35fa58fecb38abc2374a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6ad-1f6b3, U+1f6b7;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a754df453750e5712b3d84c3a676319b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6b8-1f6bf;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e7ba5a740985b1aaa96ac349531aa123.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f6a5-1f6ac;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a7766322459a9437fb5487edf28ef5a3.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f69c-1f6a2, U+1f6a4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a3c73a3f7555ba61349cd07f13724f8b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f694-1f69b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7a2e347ef02f999967ba1a4801005b2d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f68b-1f691, U+1f693;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./fd7250b138dc68fff76d81cbc1ef458e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f683-1f68a;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./25d4df1228db5cc6f0dee17e96a4e764.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f641, U+1f643-1f644, U+1f648-1f64a, U+1f681-1f682;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./41c527821f37d3b4c9ea66103e4777dc.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f639-1f640;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3d77731b76a738071acb6d6dbe3bea51.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f62f-1f634, U+1f637-1f638;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./993fce644496b07fa24ecc4dddaa6d97.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f626-1f62d;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7d82a6a5a5b216609c3bfbbd6eb5c0fb.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f61e-1f625;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./9ee532a52060c0be5183256cf9ac0b0c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f616-1f61d;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d3fdd662fb74f20c2ea50b717549bba1.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f60e-1f615;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f151e5adf6d7d5dd498bddaf1643da8c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f606-1f60d;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7739d738f9c07b81bc370be56d1878a2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f5fe-1f605;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./62fd587b9b4dc35d5b80714bafa7f019.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f5e1, U+1f5e3, U+1f5ef, U+1f5f3, U+1f5fa-1f5fd;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c50869befc049df735e27ad2edf06810.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f5c3-1f5c4, U+1f5d1-1f5d3, U+1f5dc-1f5de;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./38bd7a93a6d8463d5f360776884955d7.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f58d, U+1f5a4-1f5a5, U+1f5a8, U+1f5b1-1f5b2, U+1f5bc, U+1f5c2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e5b4e0d38854431c647a721ec5575105.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f576-1f579, U+1f587, U+1f58a-1f58c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./43a4d6fa376970cdc27cb773025b15d8.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f563-1f567, U+1f56f-1f570, U+1f573;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f76c7bb96b5f105d7a9f94ba90e9123e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f55b-1f562;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e9e1e4c00daa088cd9204ee7b85e3814.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f54a-1f54e, U+1f550-1f552;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3331f2ae50cba5ba1fd58c80623a2d33.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f553-1f55a;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./9d0d1184e055453c20c75fffe23b94b4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f537-1f53d, U+1f549;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./2f706cbbebe081de5d0f5288f8d34f96.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f52f-1f536;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./13e0fd5622261cb1a8465973f866a4f3.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f524, U+1f526, U+1f528-1f52b, U+1f52d-1f52e;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./8d56fad5377346ebdc30703e43f8695c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f51c-1f523;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./66c16e66dd1ec87e51c393fa087b04f8.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f514-1f51b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./8eedb9bcc53d105a3da823d551f9b68f.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f50c-1f513;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0d3876ed90bb4ea915a42b9f604982f6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4fb-1f4fd, U+1f4ff-1f503;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./2edb8ab89ed9411bb4482d2f384e5b78.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f504-1f50b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./29c0396472b6c6aa07eb339e60a83d97.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4f3-1f4fa;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./86cd7d898f1452f12eef28bbb1d2bed4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4eb-1f4f2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./87b551fefd927ec8c45554aa9a0693f7.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4e3-1f4ea;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f6e6177f74d297eb1c632b194f632114.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4db-1f4e2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./54c841a8202f0269724dc812b1721b10.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4d3-1f4da;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./534c25f88a21669a78643c7d5084330a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4cb-1f4d2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3205044c0503a0eb64dc47a109dae857.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4c3-1f4ca;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./528f56b123694a0c622814a9d9264047.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4b9-1f4ba, U+1f4bd-1f4c2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./bc5cbb0f7aa017b5b14b318435060784.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4b1-1f4b8;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./78dc1857e8c76cf30e13c5d1247eb3b9.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f4a6-1f4a7, U+1f4a9, U+1f4ac-1f4b0;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./bcfae08d126d99edc9cde381708752f2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f49d-1f4a4;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./81a0ece7610828924610dd5d280ffb88.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f48a, U+1f48c-1f48e, U+1f490, U+1f492-1f494;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3143758300a24a97030812c0c40e28ea.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f495-1f49c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./91e7d1dda09d038fd2f46a3ba0a50865.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f461-1f465, U+1f46a, U+1f479-1f47a;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c319838bd5c6dc93bd45f26a3af273d1.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f47b, U+1f47d-1f480, U+1f484, U+1f488-1f489;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./b3e1f46304ddbe20a64fa21c6f3724f4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f451-1f458;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c365a62ce8a1210bb68ba3dd4f2ff976.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f459-1f460;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./ddcedd3536cee969a6cdfcfa74ca7596.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f43a, U+1f43c-1f440, U+1f444-1f445;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0c92a17055f1b4ce8fd59ef58bfee92c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f432-1f439;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./969c5ad39a4014e243b33f1c90e9ee1e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f42a-1f431;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./59e94b15ea118fd08d82a6fd27084e62.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f421-1f425, U+1f427-1f429;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./68da123c3bfba3193d365ff3077b53d7.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f419-1f420;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./30ee855d7926d597bc57ae101fe96b01.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f410-1f414, U+1f416-1f418;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./8e922120d8011333a7e4e1663c1c893e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f407, U+1f409-1f40f;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c76837ec944c971f9c46234994e08c5d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3fa, U+1f400-1f406;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a6e57093ddd813af68824e3581d96c38.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3ec, U+1f3ee-1f3f0, U+1f3f5, U+1f3f7-1f3f9;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4855a4fd14242bc1a6a9a24f791037a9.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3e3-1f3ea;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d9671afe3bc95aeddc7cbd9d09c3f43a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3db-1f3e2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c1d07864488370464e6cb6b9061c0c58.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3d3-1f3da;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f5552e4589defd45d38055fc4bbbc1d4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3c8-1f3c9, U+1f3cd-1f3d2;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f434cb06f63366c03f8f2455e7bced96.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3bc-1f3c1, U+1f3c5-1f3c6;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./9c5bed08d4499df1f2a5228088a433fd.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3b4-1f3bb;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./04f769f1dacaf602abdcf462835ad49a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3ac-1f3b3;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a7300026d35b4d74c09874e01cd96f6b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f3a2-1f3a3, U+1f3a5-1f3a7, U+1f3a9-1f3ab;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./363b407bdbc36e670824ac5341b19385.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f397, U+1f399-1f39b, U+1f39e-1f3a1;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./5561e262da13265a10a24a42a042f9c4.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f38c-1f392, U+1f396;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./21526ae892319b975c8740833349fb5d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f382-1f383, U+1f386-1f38b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e0176e119dade2603243f2fd2b5c56ce.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f379-1f37b, U+1f37d-1f381;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./74d9746d85c530cfcf9d292c0c594d51.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f370-1f372, U+1f374-1f378;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3f3e33e03399ef5d75e3a4edc4567b67.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f368-1f36f;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./a38233e0d504a431b246dee274dae690.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f360-1f367;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./54b11c3edc55f60f1fb426b59448b854.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f358-1f35f;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d53229f64ec9a60acda91d1bb01d43f1.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f350-1f357;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4c896f80a7f223948bd51e55d089b1e0.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f347-1f34a, U+1f34c-1f34f;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./1a8f8298140c52cf361a74b301e10c57.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f33d, U+1f33f-1f343, U+1f345-1f346;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./0579ad2027c4917d46e2be9ef25a1f20.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f335-1f33c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./7cfde49d1c98e28adae2134b84bad28e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f32d-1f334;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4dd57ade914cba460e0af93a0aee104b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f324-1f32a, U+1f32c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./316633721b8a644b8352dae2c5e0d45e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f31a-1f321;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./ef30ae101d1462d27a3ae3d10a4bf4aa.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f312-1f319;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./c30cd13e100f7eb863cf509c0689e80c.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f301-1f307, U+1f309;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./9135d07e6e8d3a0529b1671a33549323.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f30a-1f311;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./940e21346d2cd0746483e0c6026dff1b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f236-1f23a, U+1f250-1f251, U+1f300;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./edd9773b88707d6b743944facae9f917.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f201-1f202, U+1f21a, U+1f22f, U+1f232-1f235;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f0baf3080f4ce79cc8d6f595a276161b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f004, U+1f0cf, U+1f170-1f171, U+1f17e-1f17f, U+1f18e, U+1f191;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4e65b757e05e83ba0b3a859d8af18a94.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+1f192-1f199;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./bbca648990bd0199c88b23a63db7bbb5.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2b07, U+2b1c, U+2b50, U+2b55, U+3030, U+303d, U+3297, U+3299;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4244b30e78818237296077bc57716d3d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2796-2797, U+27b0, U+27bf, U+2934-2935, U+2b05-2b06;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./fce5802f5e90c0483aa76a4808ac7a3e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+274c, U+274e, U+2753-2755, U+2757, U+2763, U+2795;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./e5f5c9b1613618e1155f4f62a5447f29.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+26ea, U+26f0-26f5, U+26f7;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./99a39d8f3880574e8a086522f7f7c8ab.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+26f8, U+26fa, U+26fd, U+2702, U+2705, U+2709, U+270f, U+2712;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./89229b3c00d88e894c193db8eaa12480.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2714, U+2716, U+271d, U+2721, U+2728, U+2733-2734, U+2747;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./cf67395cc93ce933a3ed0f0d71972394.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+26c4-26c5, U+26c8, U+26ce-26cf, U+26d1, U+26d4, U+26e9;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./4811eb038f0ee5268be9142811515773.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+26a0-26a1, U+26aa-26ab, U+26b0-26b1, U+26bd-26be;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./08fae74b9382a3b0194aa984d421f427.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+267f, U+2692-2694, U+2697, U+2699, U+269b-269c;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./90303a55921c545562eb757edd8d6805.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+265f-2660, U+2663, U+2665-2666, U+2668, U+267b, U+267e;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./f490f2025223ced7377d3f0dcaf4152d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+264c-2653;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./ffc8fa13ca17631977cca2ba88a1a93d.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+25fe, U+2600-2604, U+260e, U+2611;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./d4dff6b5b1115e9862f295dfd97fdd10.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2614-2615, U+2618, U+2622-2623, U+2626, U+262a, U+262e;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./75bc69f29882ddef2d169ffe3d0de51a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+262f, U+2638-263a, U+2648-264b;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./366cdec1b198264f39dc62d7414bcbc6.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+a9, U+ae, U+200d, U+2620, U+26d3, U+2744, U+2b1b, U+1f3f4, U+1f408, U+1f415, U+1f43b, U+1f4a5, U+1f9ba, U+e0062-e0063, U+e0065, U+e0067, U+e006c, U+e006e, U+e0073-e0074, U+e0077, U+e007f;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./b0ee94d31779cf29bb887c65c11d83fa.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+203c, U+2049, U+2122;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./008661a570f1bb5dbf7798acb6bce21b.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2328, U+23cf, U+23e9-23ee;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./3eb990160742eed3715884a04a336bed.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+20, U+23, U+2a, U+30-39, U+20e3, U+fe82c, U+fe82e-fe837;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./2830b61423719f8abac05f1ebd09d1a5.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+23ef-23f3, U+23f8-23fa;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./470fe98c9859fe08bd45836dbd64812e.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+24c2, U+25aa-25ab, U+25b6, U+25c0, U+25fb-25fd;
+}
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("./ce3cede396a7beea262b98d458dc2ccf.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+2196-2199, U+21a9-21aa, U+231a-231b;
+}

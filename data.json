@@ -54,5 +54,12 @@
     "directory": "noto-sans-kr",
     "lang": ["EN", "KR"],
     "multiWeight": "VF"
+  },
+  {
+    "fontName": "Noto Color Emoji",
+    "fontFamily": "Noto Color Emoji",
+    "directory": "noto-color-emoji",
+    "lang": ["EN"],
+    "multiWeight": false
   }
 ]
