@@ -61,5 +61,12 @@
     "directory": "noto-color-emoji",
     "lang": ["EN"],
     "multiWeight": false
+  },
+  {
+    "fontName": "汇文明朝体",
+    "fontFamily": "Huiwen-mincho",
+    "directory": "hui-wen-mincho",
+    "lang": ["EN", "CN"],
+    "multiWeight": false
   }
 ]
