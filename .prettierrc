@@ -1,11 +1,3 @@
 {
-  "printWidth": 80,
-  "overrides": [
-    {
-      "files": "fonts/**/*.css",
-      "options": {
-        "printWidth": 700
-      }
-    }
-  ]
+  "printWidth": 80
 }

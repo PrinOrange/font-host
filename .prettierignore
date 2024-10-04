@@ -3,4 +3,6 @@
 *.ttf
 *.otf
 
+fonts/**/*.css
+
 node_modules
