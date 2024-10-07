@@ -68,5 +68,12 @@
     "directory": "hui-wen-mincho",
     "lang": ["EN", "CN"],
     "multiWeight": false
+  },
+    {
+    "fontName": "朝鲜古明体",
+    "fontFamily": "chosun-km",
+    "directory": "chosun-ku-ming",
+    "lang": ["EN", "KR"],
+    "multiWeight": false
   }
 ]
