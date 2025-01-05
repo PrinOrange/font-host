@@ -28,6 +28,13 @@
     "multiWeight": false
   },
   {
+    "fontName": "霞骛文楷屏幕阅读版",
+    "fontFamily": "LXGW WenKai GB Screen",
+    "directory": "lxgw-wen-kai-screen",
+    "lang": ["EN", "CN", "JP"],
+    "multiWeight": false
+  },
+  {
     "fontName": "Source Serif 4",
     "fontFamily": "Source Serif 4",
     "directory": "source-serif-4",
