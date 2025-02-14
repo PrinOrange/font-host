@@ -3,84 +3,132 @@
     "fontName": "方正小标宋 GBK",
     "fontFamily": "FZXiaoBiaoSong-B05",
     "directory": "fang-zheng-xiao-biao-song",
-    "lang": ["EN", "CN", "JP"],
+    "lang": [
+      "EN",
+      "CN",
+      "JP"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "微软雅黑",
     "fontFamily": "Microsoft YaHei",
     "directory": "microsoft-yahei",
-    "lang": ["EN", "CN", "JP"],
+    "lang": [
+      "EN",
+      "CN",
+      "JP"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "思源屏显臻宋",
     "fontFamily": "Clear Han Serif",
     "directory": "source-serif-screen",
-    "lang": ["EN", "CN", "JP"],
+    "lang": [
+      "EN",
+      "CN",
+      "JP"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "方正屏显雅宋",
     "fontFamily": "FZPingXianYaSong-R-GBK",
     "directory": "fang-zheng-serif-screen",
-    "lang": ["EN", "CN", "JP"],
+    "lang": [
+      "EN",
+      "CN",
+      "JP"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "霞骛文楷屏幕阅读版",
     "fontFamily": "LXGW WenKai GB Screen",
     "directory": "lxgw-wen-kai-screen",
-    "lang": ["EN", "CN", "JP"],
+    "lang": [
+      "EN",
+      "CN",
+      "JP"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "Source Serif 4",
     "fontFamily": "Source Serif 4",
     "directory": "source-serif-4",
-    "lang": ["EN"],
+    "lang": [
+      "EN"
+    ],
     "multiWeight": "VF"
   },
   {
     "fontName": "Noto Serif KR",
     "fontFamily": "Noto Serif KR",
     "directory": "noto-serif-kr",
-    "lang": ["EN", "KR"],
+    "lang": [
+      "EN",
+      "KR"
+    ],
     "multiWeight": "VF"
   },
   {
     "fontName": "Times New Roman",
     "fontFamily": "Times New Roman",
     "directory": "times-new-roman",
-    "lang": ["EN"],
+    "lang": [
+      "EN"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "Noto Sans KR",
     "fontFamily": "Noto Sans KR",
     "directory": "noto-sans-kr",
-    "lang": ["EN", "KR"],
+    "lang": [
+      "EN",
+      "KR"
+    ],
     "multiWeight": "VF"
   },
   {
     "fontName": "Noto Color Emoji",
     "fontFamily": "Noto Color Emoji",
     "directory": "noto-color-emoji",
-    "lang": ["EN"],
+    "lang": [
+      "EN"
+    ],
     "multiWeight": false
   },
   {
     "fontName": "汇文明朝体",
     "fontFamily": "Huiwen-mincho",
     "directory": "hui-wen-mincho",
-    "lang": ["EN", "CN"],
+    "lang": [
+      "EN",
+      "CN"
+    ],
     "multiWeight": false
   },
-    {
+  {
     "fontName": "朝鲜古明体",
     "fontFamily": "chosun-km",
     "directory": "chosun-ku-ming",
-    "lang": ["EN", "KR"],
+    "lang": [
+      "EN",
+      "KR"
+    ],
+    "multiWeight": false
+  },
+  {
+    "fontName": "方正楷体",
+    "fontFamily": "FZKai-Z03",
+    "directory": "fang-zheng-kai-ti",
+    "lang": [
+      "EN",
+      "KR"
+    ],
     "multiWeight": false
   }
 ]
